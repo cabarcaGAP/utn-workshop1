@@ -1,11 +1,18 @@
 {
-  "name": "utn-workshop1",
+  "name": "gap-workshop",
   "version": "1.0.0",
+  "description": "Automation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chris",
+  "keywords": [
+    "qa",
+    "automation"
+  ],
+  "author": "Christian Abarca",
   "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "cypress": "^13.11.0"
+  }
 }
